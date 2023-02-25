@@ -2,8 +2,8 @@
 This is the NFT portion
 
 ## Seting up the Environment
-Download the solidity files to compile the smart contracts.
 -------
+Download the solidity files to compile the smart contracts.
 ## Auction Portion
   1. Git clone Trial_3
   2. Click onto the Lucky_Day Folder 
